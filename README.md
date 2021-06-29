@@ -10,7 +10,7 @@ If it's your first EditorKit customizing project or you miss some basic concepts
 * Scaling Feature in the JEditorPane Component.
   * Scaling with custom GlyphPainter and fractional measure support.
 * Vertical text in the JEditorPane Component.
-  * Pagination in the JEditorPane Component.
+* Pagination in the JEditorPane Component.
   * Pagination in the JEditorPane Component. Part I.
   * Pagination in the JEditorPane Component. Part II (Printing).
   * Pagination in the JEditorPane Component. Part III (Headers and footers).
