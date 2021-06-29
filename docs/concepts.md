@@ -9,12 +9,12 @@ Hope the articles are useful. If not just skip them and try to have better under
 
 Table of content of the tutorial
 
-[Overview]()
-[Document]()
-[ViewFactory and Views]()
-[Reader and Writer]()
-[Actions]()
-[Example]()
+* Overview
+* [Document]()
+* [ViewFactory and Views]()
+* [Reader and Writer]()
+* [Actions]()
+* [Example]()
 
 EditorKit encapsulates Document (Model) with tools to write and read specified type of content, Views, and some actions to work with content.
 So it provides Document via createDefaultDocument() method, allows to write and read the Document data, in other words save and restore the Document,
