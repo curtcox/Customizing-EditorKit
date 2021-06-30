@@ -10,8 +10,8 @@ Hope the articles are useful. If not just skip them and try to have better under
 Table of content of the tutorial
 
 * Overview
-* [Document]()
-* [ViewFactory and Views]()
+* [Document](/docs/Document.md)
+* [ViewFactory and Views](/docs/Views.md)
 * [Reader and Writer]()
 * [Actions]()
 * [Example]()
